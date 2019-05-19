@@ -1,2 +1,2 @@
-# legato-admin-services
+# legato-adminservices
 Middle ware services for legato admin functions
